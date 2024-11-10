@@ -1,6 +1,8 @@
 Hi This is Rithika P
-I’m interested in Full stack development
+I’m strong in C and Java
 I’m currently learning DSA
+I'm always eager to learn new things
+Future Software engineer
 
 
 <!---
